@@ -6,4 +6,6 @@
 6. Luka Drofenik; luka.drofenik1@student.um.si; test-drofenik
 7. Maks Boh; maks.boh@student.um.si,; test-boh
 8. Nikolaj Božič; nikolaj.bozic@student.um.si; test-bozic
-9. Maja BErtoncelj; maja.bertoncelj@student.um.si; test-bertoncelj
+9. Maja Bertoncelj; maja.bertoncelj@student.um.si; test-bertoncelj
+10. Marko Jovanović; marko.jovanovic@student.um.si; test-jovanovic47
+
