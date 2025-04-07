@@ -1,0 +1,8 @@
+test = "test"
+
+if test == "test":
+    print("test je enako test")
+else:
+    print("test ni enako test")
+
+#ti si test.
