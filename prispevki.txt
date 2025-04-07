@@ -8,4 +8,5 @@
 8. Nikolaj Božič; nikolaj.bozic@student.um.si; test-bozic
 9. Maja Bertoncelj; maja.bertoncelj@student.um.si; test-bertoncelj
 10. Marko Jovanović; marko.jovanovic@student.um.si; test-jovanovic47
+11. Sandra Kirbiš; sandra.kirbis@student.um.si; test-soncnica
 
