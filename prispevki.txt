@@ -4,3 +4,4 @@
 4. Nika Kepic; nika.kepic@student.um.si; test-kepic
 5. Tin Debeljak; tin.debeljak@student.um.si; test-debeljak
 6. Luka Drofenik; luka.drofenik1@student.um.si; test-drofenik
+7. Maks Boh; maks.boh@student.um.si,; test-boh
