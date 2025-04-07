@@ -13,8 +13,6 @@ This repository contains:
 **Note**: This repository is intended for educational purposes. The code here does not provide any complex solutions but serves as practice for version control concepts.
 
 ## Project Contents
-
-- `basic_python_code/`: Contains simple Python scripts and exercises.
 - `README.md`: This file, providing basic information about the project.
 
 ## Learning Objectives
@@ -30,4 +28,4 @@ By working with this repository, you'll learn:
 
 1. Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/LilDomc/SkupinaDelta.git
