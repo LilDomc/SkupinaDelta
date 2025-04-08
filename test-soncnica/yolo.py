@@ -14,3 +14,5 @@ for koordinate in ovire:
         if y < minimum:
             minimum = y
 print("Kolesar je naletel na oviro na koordinati x, y: " + str(koordinata_x) + ", " + str(minimum))
+
+print("Konec!")
