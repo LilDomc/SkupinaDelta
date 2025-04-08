@@ -15,4 +15,4 @@ for koordinate in ovire:
             minimum = y
 print("Kolesar je naletel na oviro na koordinati x, y: " + str(koordinata_x) + ", " + str(minimum))
 
-print("Konec!")
+print("Konec! lol")
