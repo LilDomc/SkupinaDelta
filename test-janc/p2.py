@@ -2,3 +2,4 @@ print("Welcome to the program that shows you how JavaScript works. The program w
 x = int(input("Enter the first number: "))
 y = int(input("Enter the second number: "))
 print(f"({x}{y})")
+print("Konec")
